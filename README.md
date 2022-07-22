@@ -11,7 +11,7 @@ Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton
 - 🌱 I’m currently in college at S.I Information Systems. 
 - 🌱 I’m currently learning CyberSecurity and Backend.
 
-[<img src='https://cdn-icons-png.flaticon.com/512/7766/7766784.png' alt='github' height='30'>](https://github.com/Igor-s-ribeiro)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384072.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/igor-sampaio-ribeiro-14b80b1a2)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='30'>](https://www.instagram.com/igor_ribeiro__/)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='30'>](https://twitter.com/o_corrosivo)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384079.png' alt='whatsapp' height='30'>](https://codepen.io/Igor-s-ribeiro)  
+[<img src='https://cdn-icons-png.flaticon.com/512/7766/7766784.png' alt='github' height='30'>](https://github.com/Igor-s-ribeiro)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384072.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/igor-sampaio-ribeiro-14b80b1a2)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384073.png' alt='instagram' height='30'>](https://www.instagram.com/igor_ribeiro__/)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='30'>](https://twitter.com/o_corrosivo)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384079.png' alt='whatsapp' height='30'>](https://codepen.io/Igor-s-ribeiro)  
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Igor-s-ribeiro)](https://github.com/ryo-ma/github-profile-trophy) 
 
