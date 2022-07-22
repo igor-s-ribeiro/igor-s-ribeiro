@@ -1,7 +1,6 @@
 ### Hello there 👋🏾, my name is Igor
 ## I am Developer Backend and student!
 
-<!--
 **igor-s-ribeiro/igor-s-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -28,4 +27,4 @@ Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Igor-s-ribeiro) 
 
 ![GitHub metrics](https://metrics.lecoq.io/igor-s-ribeiro)
--->
+
