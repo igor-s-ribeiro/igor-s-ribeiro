@@ -12,7 +12,7 @@ Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton
 - 🌱 I'm currently working for a DuBrasil Soluções.  
 - 🌱 I’m currently in college at S.I Information Systems. 
 
-[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'>](https://github.com/Igor-s-ribeiro)  [<img src='https://img.icons8.com/color/344/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/igor-sampaio-ribeiro-14b80b1a2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/igor_ribeiro__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/o_corrosivo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/Igor-s-ribeiro)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'>](https://github.com/Igor-s-ribeiro)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/igor-sampaio-ribeiro-14b80b1a2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/igor_ribeiro__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/o_corrosivo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/Igor-s-ribeiro)  
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Igor-s-ribeiro)](https://github.com/ryo-ma/github-profile-trophy) 
 
