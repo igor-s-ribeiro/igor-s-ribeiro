@@ -1,6 +1,7 @@
 ### Hello there 👋🏾, my name is Igor
 ## I'm a Systems Analyst, student of Backend, Artificial Intelligence and CyberSecurity!
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 * My name is Igor Sampaio Ribeiro, I am twenty two years old, I currently live in Uberaba Minas Gerais Brazil which is also my hometown. I have always liked technologies in general, when I was younger my interest was in games... And when I turned 15 years old I started to be curious about what was running behind websites and the games I played. My first contact with programming was in college, using the C# language. Since then, I've been a technology enthusiast, working as a systems analyst and Backend, IA and CyberSecurity student. 
 
