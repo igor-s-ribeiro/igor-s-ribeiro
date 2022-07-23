@@ -32,7 +32,7 @@ Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton / Linux
 
 ##
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Igor-s-ribeiro&matheme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Igor-s-ribeiro-ma&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ##
 
