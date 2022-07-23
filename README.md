@@ -26,7 +26,7 @@ Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton / Linux
 
 <div align="center">
   <a href="https://github.com/igor-s-ribeiro">
-  <img height="160em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igor-s-ribeiro&theme=react)](https://git.io/streak-stats)"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=igor-s-ribeiro&theme=react"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igor-s-ribeiro&show_icons=true&count_private=true&theme=react"/>
 </div>
 
