@@ -36,11 +36,11 @@ Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton / Linux
 
 ##
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorsribeiro)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorsribeiro)](https://github.com/anuraghazra/github-readme-stats&theme=react)
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-s-ribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-s-ribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=react) 
 
 ##
 
