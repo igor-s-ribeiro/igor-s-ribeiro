@@ -1,6 +1,6 @@
 ### Hello 👋🏾
 ## I'm a Systems Analyst, student of Backend, Artificial Intelligence and CyberSecurity!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=18DCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub;Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BE6BFB3&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub)](https://git.io/typing-svg)]
 
  <img src="https://madefy.com.br/wp-content/themes/madefy/img/servicos/17.png" min-width="350px" max-width="350px" 
     width="350px" align="right">
