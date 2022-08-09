@@ -16,8 +16,8 @@ My name is Igor Sampaio Ribeiro, I am twenty two years old, I currently live in 
 ```php
 // Enquanto a vida for Open Source...
 while($life->isOpenSource()) {
-    // diz que ama codar e ama alguém inteligente
-    echo 'I love to code. I love you, ' . $name . '! ';
+    // Coisas boas da vida
+    echo 'I love to code. I love coffee... ' . $name . '! ';
 }
 ```
 
