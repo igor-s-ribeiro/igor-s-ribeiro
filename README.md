@@ -18,6 +18,7 @@ My name is Igor Sampaio Ribeiro, I am twenty two years old, I currently live in 
 while($life->isOpenSource()) {
     // Coisas boas da vida
     echo 'I love to code. I love coffee... ' . $name . '! ';
+    echo 'É impossível progredir sem mudança, e aquele que não muda sua mente não pode mudar nada!' . $name . '! ';
     // Current Streak 3
 }
 ```
