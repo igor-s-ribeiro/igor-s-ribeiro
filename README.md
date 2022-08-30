@@ -49,8 +49,7 @@ while($life->isOpenSource()) {
 ##
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorsribeiro)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
- 
-  <img src="https://wakatime.com/share/@igorsribeiro/0c7c4a2b-5130-4912-aa57-dcb8abdee3b5.svg" alt="Alternative Text"/>
+
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-s-ribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark) 
