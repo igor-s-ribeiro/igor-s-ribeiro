@@ -25,7 +25,7 @@ while($life->isOpenSource()) {
 
 ##
 
-- 🌱 I’m currently in college at S.I Information Systems . 
+- 🌱 I’m currently in college at S.I Information Systems. I'm studying the 6th period of college. 
 - 🌱 I’m currently learning CyberSecurity and Frontend/Backend.
 
 ##
