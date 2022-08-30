@@ -48,7 +48,7 @@ while($life->isOpenSource()) {
 
 ##
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorsribeiro)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igor-s-ribeiro)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 ##
 
