@@ -9,7 +9,7 @@
 My name is Igor Sampaio Ribeiro, I am twenty three years old, I currently live in Uberaba Minas Gerais Brazil which is also my hometown. I have always liked technologies in general, when I was younger my interest was in games... And when I turned 15 years old I started to be curious about what was running behind websites and the games I played. My first contact with programming was in college, using the C# language. Since then, I've been a technology enthusiast, working as a systems analyst and Backend, IA and CyberSecurity student. 
 
 
-* Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton / Linux / Bootstrap / JavaScript / Bootstrap
+* Skills: C# / HTML / CSS / ReactNative / JAVA / SQL / Phyton / Linux / Bootstrap / JavaScript
 
 ##
 
