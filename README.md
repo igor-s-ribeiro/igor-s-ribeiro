@@ -1,28 +1,25 @@
-### Hello 👋🏾
-## I'm a Systems Analyst, student of Backend, Artificial Intelligence and CyberSecurity!
+### CyberSecurity 🧙‍♂️
+## Are you 1 or 0!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=44E7FFEB&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
- <img src="https://user-images.githubusercontent.com/61291155/105898723-8acab280-5ff8-11eb-86f8-571208c41457.png" min-width="350px" max-width="350px" 
+ <img src="https://cdn.icon-icons.com/icons2/2713/PNG/512/dokkaebi_icon_171399.png" min-width="350px" max-width="350px" 
     width="350px" align="right">
-
-
-Are you 1 or 0 
-
 
 
 ##
 
 ```php
-// Enquanto a vida for Open Source...
-while($life->isOpenSource()) {
-    // Coisas boas da vida
-    echo 'I love to code. I love coffee. ' . $name . '! ';
-    echo 'É impossível progredir sem mudança, e aquele que não muda sua mente não pode mudar nada!' . $name . '! ';
-    // Current Streak 1
+// While my code remains fortress-like against intruders...
+while($code->isFortressAgainstIntruders()) {
+    // The thrilling life of cybersecurity
+    echo 'I hunt bugs. I patch holes. ' . $name . '! ';
+    echo 'My firewall is stronger than a double-shot espresso!' . $name . '! ';
+}
 ```
 
 ##
 
+- 🌱
 - 🌱<b> CyberSecurity </b>
 
 ##
