@@ -6,10 +6,9 @@
     width="350px" align="right">
 
 
-My name is Igor Sampaio Ribeiro, I am twenty three years old, I currently live in Uberaba Minas Gerais Brazil which is also my hometown. I have always liked technologies in general, when I was younger my interest was in games... And when I turned 15 years old I started to be curious about what was running behind websites and the games I played. My first contact with programming was in college, using the C# language. Since then, I've been a technology enthusiast, working as a systems analyst and Backend, IA and CyberSecurity student. 
+Are you 1 or 0 
 
 
-* Skills: C# / HTML / CSS / PHP / SQL / Phyton / Linux / Bootstrap 
 
 ##
 
@@ -24,8 +23,7 @@ while($life->isOpenSource()) {
 
 ##
 
-- 🌱<b> I’m currently in college at S.I Information Systems. I'm studying the 6th period of college. </b>
-- 🌱<b> I’m currently learning CyberSecurity and Frontend/Backend. </b>
+- 🌱<b> CyberSecurity </b>
 
 ##
 
